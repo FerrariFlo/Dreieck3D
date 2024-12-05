@@ -1,0 +1,16 @@
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.exe
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.deps.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.runtimeconfig.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\bin\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.Form1.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.csproj.GenerateResource.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.AssemblyInfoInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.AssemblyInfo.cs
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.csproj.CoreCompileInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\refint\INF_Übungsbeispiel_Dreieck3D.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\INF_Übungsbeispiel_Dreieck3D.genruntimeconfig.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_Dreieck3D\obj\Debug\net8.0-windows\ref\INF_Übungsbeispiel_Dreieck3D.dll
